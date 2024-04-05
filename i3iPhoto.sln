@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "i3iPhoto", "i3iPhoto\i3iPhoto.pyproj", "{5CE0546D-DC56-44F1-A0E2-3750A8064E36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CE0546D-DC56-44F1-A0E2-3750A8064E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CE0546D-DC56-44F1-A0E2-3750A8064E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA2E7FC6-A2C1-4903-8DDC-DEBF4872B019}
+	EndGlobalSection
+EndGlobal
